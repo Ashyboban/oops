@@ -20,6 +20,7 @@ System.out.println("area of cuboid is:"+area_val);
 
 public static void main(String[] args)
 {
+System.out.println("Ashy Boban\n23MCA021\n06-04-24");
 Scanner sc=new Scanner(System.in);
 System.out.println("enter the length");
 int l=sc.nextInt();
